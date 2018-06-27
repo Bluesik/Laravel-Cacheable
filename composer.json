@@ -1,0 +1,22 @@
+{
+    "name": "bluesik/laravel-cacheable",
+    "description": "Cacheable trait for Laravel models",
+    "version": "1.0",
+    "type": "package",
+    "license": "MIT",
+    "keywords": [
+        "laravel", "eloquent", "model", "trait", "cache", "cacheable"
+    ],
+    "authors": [
+        {
+            "name": "Bluesik",
+            "email": "blues1905@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bluesik\\LaravelCacheable\\": "src/"
+        }
+    }
+}
