@@ -11,7 +11,7 @@ This trait allows you to easily cache your model's data through a variety of han
 ## Installation
 
 ```
-composer require bluesik\laravel-cacheable
+composer require bluesik/laravel-cacheable
 ```
 
 ## Usage
